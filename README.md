@@ -3,7 +3,7 @@
 <h1 align="left">
 
 - You may talk or ask me about cyber security and or anticheats.
-- You can reach me at itag7894@gmail.com.
+- You can reach me at dev@nort721.com.
 
 </h1>
 
