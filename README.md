@@ -15,7 +15,6 @@ If you want to contact me about something sensitive please encrypt your message 
   
   ```
   -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mQENBGEhhz8BCACHfDlqPFplnx3dT73TEeUnFO6BswEjv7gsgWcjcMbqEbpZwmOD
 gn7ayWHUrcfpLTTBqvHv6EZGvw0kD8uvHYPKllWRvV/LvgeejM12adVAilEauHp0
 rktw38wx9/LwHBIZzTDQQCzpvtzZ2rYoAvwyEI+SI9R1HSIQf6Z0KPxpsfGSgqRn
