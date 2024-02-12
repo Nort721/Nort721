@@ -4,6 +4,7 @@
 
 - You may talk or ask me about cyber security and or anticheats.
 - You can reach me at dev@nort721.com.
+- Checkout my posts at https://nort721.github.io/
 
 </h1>
 
